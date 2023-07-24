@@ -1,0 +1,5 @@
+/function_test/*
+*_test.ipynb
+/__pycache__/*
+/blocks/__pycache__/*
+/*/__pycache__/*
